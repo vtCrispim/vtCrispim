@@ -37,7 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vtCrispim/vtCrispim/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vtCrispim/vtCrispim/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
