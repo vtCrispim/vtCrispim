@@ -31,8 +31,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vtCrispim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vtCrispim&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vtCrispim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=vtCrispim&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
 </div>
 
 ###
