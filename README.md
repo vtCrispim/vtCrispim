@@ -8,8 +8,6 @@
 </div>
 </br>
 <div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vtCrispim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="100" />
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=vtCrispim&layout=compact&theme=tokyonight&langs_count=5"       height="100" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vtCrispim&theme=tokyonight" height="100" alt="streak stats" />
 </div>
 </br>
